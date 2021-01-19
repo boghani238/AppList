@@ -3,7 +3,7 @@
   "data_mbcp" : [
 {
     "imgurl" : "https://play-lh.googleusercontent.com/jdA5KxmC5gqyIqMZV4ehFtW6O7NtZ0UUkWySNE7K27pnVSa-d8XSsYpnhPg7qRLvkih5=s180-rw",
-    "name" : "Set-Top Box Remote Control For All Set-Top Box",
+    "name" : "Free Remote Control",
     "playurl" : "https://play.google.com/store/apps/details?id=com.universal.settopboxremote.remote.control.forallsettopboxremote.settopboxremoteremote"
   },
 {
